@@ -15,7 +15,12 @@ All data, raw or processed, are stored in the `data` folder. To save space, we o
 All source code scripts are stored in the `src` folder and executable from the command line. They contain functions called by the code in the Jupyter Notebooks.
 
 ### Jupyter Notebooks
+
 The Jupyter Notebooks are numbered in order of execution. You can just read through them in the order presented!
+
+### Results
+
+You can access the final models and predictions in the `results` folder. However, they are thoroughly walked through in the Jupyter Notebooks as well.
 
 ## Models
 
