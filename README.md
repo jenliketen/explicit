@@ -8,7 +8,7 @@ With the migration of music from physical records to online, we need to find a w
 
 ### Data
 
-All data, raw or processed, are stored in the `data` folder. To save space, we only upload the first few rows of each dataset.
+All data, raw or processed, are stored in the `data` folder. To save space, we only upload the first few rows of each dataset. We do not upload the `pickle` files as they are too large and can also be obtained through running the Jupyter Notebooks.
 
 ### Source code
 
