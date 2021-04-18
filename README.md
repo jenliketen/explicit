@@ -20,7 +20,7 @@ The Jupyter Notebooks are numbered in order of execution. You can just read thro
 
 ### Results
 
-You can access the final models and predictions in the `results` folder. However, they are thoroughly walked through in the Jupyter Notebooks as well.
+You can access the final predictions in the `results` folder. However, they are thoroughly walked through in the Jupyter Notebooks as well. We do not upload the final models because they are too large, but you can obtain them by running the Jupyter Notebooks.
 
 ## Models
 
